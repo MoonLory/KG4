@@ -1,10 +1,9 @@
-# KG1
-lab1, Hryshkin
+# KG4
+lab4, Hryshkin
 
 ## Task
 
-Create a (web) app allowing the user to choose and interactively change the color and showing its components in three 
-color models (RGB, XYZ, LAB) in real time.
+Write an application / web application that illustrates the operation of basic raster algorithms (4 algorithms). 
 
 ## Result
 
