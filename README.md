@@ -32,4 +32,4 @@ Figure 4
 
 ## Installation and usage
 
-Run app.exe
+Run lab4.exe
